@@ -8,6 +8,8 @@ KEY FEATURES:
 - Common Table Expression (CTE) for Hierarchy
 - Recursive Relationship (CONNECT BY)
 - Data Joining with AUM Views
+AUTHOR: Sheikh M Taha
+DATE: May 2026
 */
 
 WITH rm_hierarchy AS (
