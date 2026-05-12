@@ -22,6 +22,7 @@ This repository contains Oracle SQL and PL/SQL queries related to:
 | `rm_hierarchy_aum_allocation.sql` | RM Hierarchy ke mutabiq AUM data aur fund categories. | Hierarchical Joins, AUM Reporting |
 | `rm_hierarchy_ntb_report.sql` | RM Hierarchy ke mutabiq New To Bank (NTB) customers ka data. | Status Filtering, NTB Reporting |
 | `rm_simple_aum_card.sql` | Dashboard card ke liye simple AUM summary. | Summary Metrics, Hierarchy |
+| `rm_dashboard_net_load.sql` | Dashboard card ke liye Net Load (Front-end load) calculation. | Date Filtering, Revenue Tracking|
 
 ---
 
