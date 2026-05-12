@@ -1,3 +1,9 @@
+/* PROJECT: RM Net Sales Report
+DESCRIPTION: Ye query monthly sales calculate karti hai RM hierarchy ke mutabiq.
+AUTHOR: Taha Sheikh
+DATE: May 2026
+*/
+
 with rm_hierarchy as
  (SELECT ss.si04_id login_id,
          ss.si04_report_to parent_id,
