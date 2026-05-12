@@ -7,6 +7,8 @@ FEATURES:
 - Uses Common Table Expression (CTE) for RM Hierarchy.
 - Implements Hierarchical retrieval (START WITH...CONNECT BY).
 - Joins hierarchy with sales view (view_rm_net_sale_data).
+AUTHOR: Sheikh M Taha
+DATE: May 2026
 */
 
 WITH rm_hierarchy AS
