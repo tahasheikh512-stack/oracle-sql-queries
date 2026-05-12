@@ -8,6 +8,8 @@ KEY FEATURES:
 - Hierarchical Data Processing (CONNECT BY)
 - Status Filtering (CRM_STATUS_ID)
 - Joins with NTB View (view_RM_NTB_DATA)
+AUTHOR: Sheikh M Taha
+DATE: May 2026
 */
 
 with rm_hierarchy as
